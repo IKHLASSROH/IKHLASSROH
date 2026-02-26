@@ -1,40 +1,59 @@
 # Ikhlass Rohni
 
-Computer Science student with a strong interest in building reliable and efficient software. I am currently focused on developing my programming skills, understanding system fundamentals, and working on real-world projects.
+Computer Science student focused on building strong foundations in programming, systems, and software development. I am continuously improving my technical skills through academic and personal projects.
 
 ---
 
-## Profile
+## About Me
 
-I am passionate about technology and motivated to continuously improve my technical and problem-solving abilities. I am particularly interested in:
+I am motivated to become a skilled software engineer by learning deeply and applying my knowledge in practice. I am particularly interested in understanding how systems work, writing efficient code, and developing reliable applications.
 
-- Programming
+---
+
+## Interests
+
+- Programming (C)
 - Cybersecurity
 - Linux and system fundamentals
-- Software design and development
-
-I value clean code, logical thinking, and practical learning through projects.
+- Software development
+- Algorithms and problem solving
 
 ---
 
 ## Current Focus
 
-- Learning paython programming
-- Strengthening Linux skills
-- Building academic and personal projects
-- Improving problem-solving and algorithmic thinking
+- Improving my C programming skills
+- Strengthening my Linux knowledge
+- Building practical projects
+- Learning Git and GitHub professionally
+
+---
+
+## Skills
+
+- Programming
+- Linux Basics
+- Git and GitHub
+- Problem Solving
+- Algorithms Fundamentals
+
+---
+
+## GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhlassRohni&show_icons=true)
+
+---
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhlassRohni&layout=compact)
 
 ---
 
 ## Projects
 
-My repositories include academic and personal work that reflects my learning journey and technical progress. Each project represents practical implementation of concepts I have studied.
-
----
-
-## Collaboration
-
-I am open to collaborating on educational and technical projects that contribute to learning, experience, and skill development.
+My repositories contain academic and personal projects that reflect my learning progress and practical experience.
 
 ---
 
@@ -46,6 +65,4 @@ Email: bi.rohni@ensta.edu.dz
 
 ## Objective
 
-My objective is to become a skilled computer science engineer capable of designing, developing, and contributing to meaningful and impactful software systems.
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhlassRohni&show_icons=true)
+My objective is to become a competent computer science engineer capable of designing, developing, and contributing to high-quality software systems.
