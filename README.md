@@ -47,3 +47,5 @@ Email: bi.rohni@ensta.edu.dz
 ## Objective
 
 My objective is to become a skilled computer science engineer capable of designing, developing, and contributing to meaningful and impactful software systems.
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhlassRohni&show_icons=true)
