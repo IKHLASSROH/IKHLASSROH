@@ -12,7 +12,7 @@ I am motivated to become a skilled software engineer by learning deeply and appl
 
 ## Interests
 
-- Programming (C)
+- Programming 
 - Cybersecurity
 - Linux and system fundamentals
 - Software development
