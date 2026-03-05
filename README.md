@@ -22,7 +22,7 @@ I am motivated to become a skilled software engineer by learning deeply and appl
 
 ## Current Focus
 
-- Improving my C programming skills
+- Improving my programming skills
 - Strengthening my Linux knowledge
 - Building practical projects
 - Learning Git and GitHub professionally
