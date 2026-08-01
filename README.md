@@ -1,291 +1,241 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Ikhlass Rohni
+<!-- 🔽 Upload banner.svg to your repo (e.g. assets/banner.svg) and point this src at it -->
+<img src="./assets/banner.svg" width="100%" alt="Ikhlass Rohni — Cyberpunk Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=900&color=8A2BE2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+Learner;Bug+Bounty+Student;Linux+Enthusiast;CTF+Player;Always+Learning+Something+New"/>
+<br/>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=IkhlassRohni&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/IkhlassRohni?style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/stars/IkhlassRohni?affiliations=OWNER&style=for-the-badge&color=blueviolet"/>
-</p>
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=7EF9FF&center=true&vCenter=true&width=780&lines=whoami+%3D%3D+Ikhlass+Rohni;Computer+Science+Student+%40+ENSTA;Learning+Cybersecurity+%26+Web+Security;Bug+Bounty+Enthusiast+%7C+CTF+Player;Building+Real-World+Security+Tools" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ikhlassrohni&label=Profile%20Views&color=7b5cff&style=for-the-badge" alt="Profile Views"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-2ee6ff?style=for-the-badge&labelColor=0b0f2b" alt="Status"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-b28dff?style=for-the-badge&labelColor=0b0f2b" alt="Focus"/>
+
+<br/><br/>
+
+<a href="https://github.com/ikhlassrohni"><img src="https://img.shields.io/badge/GitHub-0b0f2b?style=for-the-badge&logo=github&logoColor=7ef9ff" /></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0b0f2b?style=for-the-badge&logo=linkedin&logoColor=7ef9ff" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PortSwigger-0b0f2b?style=for-the-badge&logo=portswigger&logoColor=7ef9ff" /></a>
+<a href="#"><img src="https://img.shields.io/badge/PicoCTF-0b0f2b?style=for-the-badge&logo=hackthebox&logoColor=7ef9ff" /></a>
 
 </div>
 
----
+<br/>
 
-# 💜 About Me
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
+
+## 🧠 About Me
 
 ```bash
-┌──(ikhlass㉿ubuntu)-[~]
-└─$ whoami
-
-Name        :: Ikhlass Rohni
-
-Role        :: Computer Science Student
-
-School      :: ENSTA
-
-Focus       :: Cybersecurity
-
-OS          :: Ubuntu Linux
-
-Editor      :: VS Code
-
-Learning    :: Web Security
-               Bug Bounty
-               Digital Forensics
-               Linux
-               Networking
-               Python
-
-Coffee      :: ████████████ 100%
-
-Sleep       :: ███░░░░░░░░░ 30%
+ikhlass@security:~$ cat about.txt
 ```
 
----
-
-# 🚀 Currently Learning
-
-- 🔐 Web Security
-- 🕵️ Bug Bounty
-- 🧩 PortSwigger Web Security Academy
-- 🏴 PicoCTF
-- 🐧 Linux
-- ⚙️ System Administration
-- 🌐 Networking
-- 🐍 Python
-- 💻 C Programming
-- 📂 Digital Forensics
-
----
-
-# 💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,bash"/>
-
-</p>
-
----
-
-# 🖥️ Operating Systems & Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,vscode,docker,figma"/>
-
-</p>
-
----
-
-# 🔐 Cybersecurity Arsenal
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nmap"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=kali"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=linux"/>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker"/>
-
-</p>
-
-### Tools I use
-
-- Burp Suite
-- Nmap
-- Wireshark
-- Feroxbuster
-- ffuf
-- Gobuster
-- Netcat
-- tcpdump
-- Proxychains
-- Hashcat
-- John the Ripper
-- Hydra
-- Dirsearch
-- CyberChef
-- Git
-- Bash
-
----
-
-# 🧠 Learning Roadmap
-
-| Skill | Progress |
-|-------|----------|
-| Python | ██████████░░ 80% |
-| Linux | █████████░░░ 75% |
-| Git | █████████░░░ 70% |
-| Networking | ███████░░░░░ 60% |
-| Web Security | ██████░░░░░░ 55% |
-| Digital Forensics | █████░░░░░░░ 45% |
-| Reverse Engineering | ███░░░░░░░░░ 30% |
-
----
-
-# 🚀 Featured Projects
-
-## 🔍 File Type Identification Tool
-
-Python tool that identifies files using Magic Numbers and SHA256 hashing.
-
-✅ File Signature Detection
-
-✅ SHA256
-
-✅ Folder Scanning
-
-✅ File Reports
-
----
-
-## 📚 Linux Notes
-
-Personal Linux notes and commands.
-
----
-
-## 🏴 Bug Bounty Writeups
-
-Writeups from PortSwigger Labs and Web Security practice.
-
----
-
-## 🎯 PicoCTF Solutions
-
-Crypto
-
-Web
-
-General Skills
-
-Forensics
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=IkhlassRohni&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=IkhlassRohni&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IkhlassRohni&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=IkhlassRohni&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IkhlassRohni&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- [x] Learn Git & GitHub
-- [x] Learn Python
-- [x] Build Cybersecurity Projects
-- [ ] Solve 100+ PortSwigger Labs
-- [ ] Complete More PicoCTF Challenges
-- [ ] Publish Open Source Security Tools
-- [ ] Earn My First Bug Bounty
-- [ ] Contribute to Security Projects
-
----
-
-# 💻 Terminal
+```yaml
+Name:        Ikhlass Rohni
+Role:        Computer Science Student @ ENSTA
+Focus:       Cybersecurity, Web Security, Bug Bounty, Digital Forensics
+Also into:   Linux, Networking, Python, C Programming
+Mission:     Becoming an Elite Security Engineer — one CTF, one write-up,
+             and one real-world project at a time.
+```
 
 ```bash
-ikhlass@ubuntu:~$ pwd
-
-/home/ikhlass
-
-ikhlass@ubuntu:~$ ls
-
-Projects/
-Linux/
-Python/
-Bug-Bounty/
-CTF/
-Writeups/
-
-ikhlass@ubuntu:~$ cat mission.txt
-
-Learn.
-
-Build.
-
-Break.
-
-Understand.
-
-Improve.
-
-Repeat.
+ikhlass@security:~$ cat currently_learning.txt
 ```
 
----
+- 🕸️ PortSwigger Web Security Academy
+- 🏁 PicoCTF challenges
+- 🐧 Linux Administration
+- 🐍 Python Security Tooling
+- 🔧 Git & GitHub workflows
+- 🔍 Digital Forensics fundamentals
 
-# 🌍 Connect With Me
+> I'm not chasing shortcuts — I'm building the fundamentals that elite security engineers are made of.
 
-<p align="center">
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
 
-<a href="mailto:bi.rohni@ensta.edu.dz">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/IkhlassRohni">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
+## ⚙️ Skills
 
 <div align="center">
 
-### 💜 "Keep Learning. Keep Building. Keep Securing."
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,java,bash,html,css,js&theme=dark" />
 
-⭐ Thanks for visiting my profile!
+### Operating Systems
+<img src="https://skillicons.dev/icons?i=linux,kali,ubuntu&theme=dark" />
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux&theme=dark" />
 
 </div>
 
+<br/>
 
-<p align="center">
+### 🛡️ Cybersecurity Arsenal
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
-🚀 Keep Learning • Keep Building • Keep Hacking
+| Category | Tools |
+|---|---|
+| **Web Security** | Burp Suite, ffuf, Feroxbuster, Gobuster, Dirsearch |
+| **Network Analysis** | Nmap, Wireshark, tcpdump, Netcat, Proxychains |
+| **Password Auditing** | Hydra, Hashcat, John the Ripper |
+| **Data Analysis** | CyberChef |
+| **Environments** | Kali Linux, Ubuntu |
 
-</p>
+</div>
+
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0b0f2b?style=flat-square&logo=nmap&logoColor=7ef9ff)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CyberChef](https://img.shields.io/badge/CyberChef-0b0f2b?style=flat-square&logo=googlechrome&logoColor=7ef9ff)
+![Hydra](https://img.shields.io/badge/Hydra-0b0f2b?style=flat-square&logo=thehydra&logoColor=7ef9ff)
+![Hashcat](https://img.shields.io/badge/Hashcat-0b0f2b?style=flat-square&logo=hashcat&logoColor=7ef9ff)
+
+</div>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
+
+## 📈 Learning Roadmap
+
+```
+Web Security (PortSwigger)   ████████░░░░░░░░░░░░  In Progress
+Linux Administration         ██████████░░░░░░░░░░  In Progress
+Python for Security          ███████░░░░░░░░░░░░░  In Progress
+Networking Fundamentals      ████████░░░░░░░░░░░░  In Progress
+Digital Forensics            █████░░░░░░░░░░░░░░░  In Progress
+CTF Practice (PicoCTF)       ██████░░░░░░░░░░░░░░  Ongoing
+```
+
+> Progress bars reflect an active, ongoing learning path — not final scores.
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 File Type Identification Tool
+A utility for identifying true file types from binary signatures / magic bytes, useful in forensics and security triage.
+
+`Python` `Digital Forensics`
+
+</td>
+<td width="50%">
+
+### 🐧 Linux Notes
+A structured personal knowledge base documenting Linux administration, hardening, and command-line workflows.
+
+`Linux` `Documentation`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🐛 Bug Bounty Writeups
+Write-ups documenting methodology, findings, and lessons learned while practicing web application security testing.
+
+`Web Security` `Writeups`
+
+</td>
+<td width="50%">
+
+### 🏁 PicoCTF Solutions
+Documented solutions and approaches to PicoCTF challenges across categories like web, crypto, and forensics.
+
+`CTF` `Problem Solving`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> 📌 Pin these repositories on your GitHub profile so they render as live, clickable cards above this section.
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ikhlassrohni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f24&title_color=7ef9ff&icon_color=b28dff&text_color=c9d3ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlassrohni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f24&title_color=7ef9ff&text_color=c9d3ff" width="40%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=ikhlassrohni&theme=tokyonight&hide_border=true&background=0D0F24&stroke=7EF9FF&ring=B28DFF&fire=2EE6FF&currStreakLabel=7EF9FF" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhlassrohni&theme=tokyo-night&hide_border=true&bg_color=0d0f24&color=7ef9ff&line=b28dff&point=2ee6ff" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ikhlassrohni&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
+
+</div>
+
+> Stats above are live and pulled directly from GitHub — nothing here is manually entered.
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
+
+## 🎯 Goals
+
+- [x] Set up a structured cybersecurity learning path
+- [x] Start PortSwigger Web Security Academy
+- [x] Begin solving PicoCTF challenges
+- [ ] Complete Web Security Academy core learning paths
+- [ ] Publish first public bug bounty writeup
+- [ ] Build and document a digital forensics project
+- [ ] Contribute to an open-source security tool
+- [ ] Participate in a live CTF competition
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
+
+## 💻 Terminal
+
+```bash
+ikhlass@security:~$ whoami
+ikhlass_rohni
+
+ikhlass@security:~$ pwd
+/home/ikhlass/cybersecurity-journey
+
+ikhlass@security:~$ ls
+about.txt   currently_learning.txt   projects/   mission.txt   roadmap.log
+
+ikhlass@security:~$ cat mission.txt
+Become an Elite Security Engineer while continuously
+building real-world projects and learning through practice.
+```
+
+![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
+
+<div align="center">
+
+### 🔐 "Security is not a product, but a process."
+*— Bruce Schneier*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05040a,50:150a2e,100:05040a&height=120&section=footer"/>
+
+**Thanks for stopping by — always learning, always building.** 🚀
+
+</div>
