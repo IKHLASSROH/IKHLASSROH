@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🔽 Upload banner.svg to your repo (e.g. assets/banner.svg) and point this src at it -->
-<img src="IKHLASSROH/banner.svg" width="100%" alt="Ikhlass Rohni — Cyberpunk Banner"/>
+<img src="banner.svg" width="100%" alt="Ikhlass Rohni — Cyberpunk Banner"/>
 
 <br/>
 
