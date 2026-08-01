@@ -1,113 +1,163 @@
-# Hi, I'm Ikhlass Rohni 👋
+<h1 align="center">
+  Hi 👋, I'm Ikhlass Rohni
+</h1>
 
-🎓 Computer Science Student at ENSTA  
-💻 Interested in Cybersecurity, Software Engineering & Systems  
-🐧 Linux enthusiast | Learning by building real projects
+<h3 align="center">
+Computer Science Student • Cybersecurity Learner • Linux Enthusiast
+</h3>
 
-I am passionate about understanding how technology works from the inside: 
-from algorithms and programming fundamentals to operating systems and cybersecurity.
+<p align="center">
 
-I believe in learning through practice, building projects, breaking things, and improving every day 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;CTF+Player;Linux+Lover;Python+Developer;Always+Learning+New+Things..." />
 
----
+</p>
 
-## 🧠 About Me
+<p align="center">
 
-- 🎓 Computer Science student
-- 🔐 Exploring Cybersecurity and Digital Forensics
-- 🐧 Working with Linux environments
-- 💡 Interested in software development and system fundamentals
-- 📚 Always learning new technologies and improving my skills
+![](https://komarev.com/ghpvc/?username=IkhlassRohni&color=blueviolet&style=for-the-badge)
 
----
+</p>
 
-## 🚀 Current Focus
+<p align="center">
 
-Currently improving my knowledge in:
+<a href="mailto:bi.rohni@ensta.edu.dz">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
-- Python programming
-- C programming
-- Algorithms & Data Structures
-- Linux & System Administration
-- Cybersecurity Fundamentals
-- Git & Open Source Workflow
+<a href="https://github.com/IkhlassRohni">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
 
----
+</p>
 
-## 🛠️ Tech Stack
+## 💀 About Me
 
-### Programming Languages
+```python
+class Ikhlass:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+    def __init__(self):
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+        self.role = "Computer Science Student"
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+        self.interests = [
+            "Cybersecurity",
+            "Digital Forensics",
+            "Linux",
+            "Programming",
+            "System Security"
+        ]
+
+        self.languages = [
+            "Python",
+            "C",
+            "Java"
+        ]
+
+        self.learning = [
+            "Bug Bounty",
+            "Web Security",
+            "Reverse Engineering",
+            "Binary Exploitation",
+            "Networking"
+        ]
+
+        self.goal = "Become an Elite Security Engineer"
+
+## 🔐 Cybersecurity Arsenal
+
+<p>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nmap"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=burpsuite"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=wireshark"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=kali"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=github"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker"/>
+
+</p>
+
+### Also Working With
+
+- Burp Suite
+- Nmap
+- Wireshark
+- Gobuster
+- Feroxbuster
+- ffuf
+- Proxychains
+- Netcat
+- tcpdump
+- Hydra
+- John the Ripper
+- Hashcat
+- GDB
+- Git
 
 
-### Tools & Technologies
+## 📚 Currently Learning
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
----
-
-## 🔐 Cybersecurity Journey
-
-Currently exploring:
-
-- File analysis and digital forensics
-- Magic Numbers & file signatures
-- Hashing algorithms
-- Linux security basics
-- CTF challenges
-- Security tools and methodologies
-
----
-
-## 📂 Featured Projects
-
-### 🔍 File Type Identification Tool
-
-A cybersecurity tool that identifies file types using Magic Numbers and analyzes files using SHA256 hashing.
-
-Features:
-- File signature detection
-- SHA256 calculation
-- Extension verification
-- Folder scanning
-- File analysis reports
+- Web Security
+- PortSwigger Labs
+- Bug Bounty
+- Linux Privilege Escalation
+- Networking
+- Cryptography
+- Digital Forensics
+- Malware Analysis
+- Reverse Engineering
 
 
-### 🔗 More Projects Coming Soon...
+## 🚀 Featured Projects
 
----
+🔹 File Type Identification Tool
+
+🔹 Linux Notes
+
+🔹 Bug Bounty Writeups
+
+🔹 PicoCTF Solutions
+
+🔹 More Coming Soon...
+
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=IkhlassRohni&theme=tokyonight&no-frame=true&row=1&column=7)
 
 ## 📊 GitHub Stats
 
-![Ikhlass's GitHub stats](https://github-readme-stats.vercel.app/api?username=IkhlassRohni&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=IkhlassRohni&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhlassRohni&layout=compact&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=IkhlassRohni&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IkhlassRohni&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=IkhlassRohni&theme=tokyo-night)
 
 
----
+## 🐍 Contribution Snake
 
-## 🌱 My Goal
+![snake gif](https://github.com/IkhlassRohni/IkhlassRohni/blob/output/github-contribution-grid-snake.svg)
 
-To become a skilled computer engineer who builds reliable software, understands systems deeply, and contributes to meaningful technology projects.
 
----
+> "The quieter you become, the more you are able to hear."
 
-## 📫 Contact
 
-📧 Email: bi.rohni@ensta.edu.dz
-
-💼 Open to learning, collaboration and interesting projects.
-
----
+<p align="center">
 
 ⭐ Thanks for visiting my profile!
+
+🚀 Keep Learning • Keep Building • Keep Hacking
+
+</p>
