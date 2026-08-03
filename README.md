@@ -236,6 +236,5 @@ building real-world projects and learning through practice.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05040a,50:150a2e,100:05040a&height=120&section=footer"/>
 
-**Thanks for stopping by — always learning, always building.** 🚀
 
 </div>
