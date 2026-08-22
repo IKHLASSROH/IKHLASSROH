@@ -170,30 +170,6 @@ Documented solutions and approaches to PicoCTF challenges across categories like
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ikhlassrohni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0f24&title_color=7ef9ff&icon_color=b28dff&text_color=c9d3ff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhlassrohni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0f24&title_color=7ef9ff&text_color=c9d3ff" width="40%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=ikhlassrohni&theme=tokyonight&hide_border=true&background=0D0F24&stroke=7EF9FF&ring=B28DFF&fire=2EE6FF&currStreakLabel=7EF9FF" width="60%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhlassrohni&theme=tokyo-night&hide_border=true&bg_color=0d0f24&color=7ef9ff&line=b28dff&point=2ee6ff" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ikhlassrohni&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" width="90%"/>
-
-</div>
-
-> Stats above are live and pulled directly from GitHub — nothing here is manually entered.
-
-![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
 
 ## 🎯 Goals
 
