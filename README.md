@@ -121,22 +121,6 @@ CTF Practice (PicoCTF)       ██████░░░░░░░░░░░
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:05040a,50:150a2e,100:05040a&height=3&section=header)
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔍 File Type Identification Tool
-A utility for identifying true file types from binary signatures / magic bytes, useful in forensics and security triage.
-
-`Python` `Digital Forensics`
-
-</td>
-<td width="50%">
-
 ### 🐧 Linux Notes
 A structured personal knowledge base documenting Linux administration, hardening, and command-line workflows.
 
